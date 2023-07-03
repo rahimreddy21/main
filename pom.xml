@@ -20,10 +20,11 @@
   </properties>
 
 <distributionManagement>
-  <repository>
-    <id>your-repo-id</id>
-    <url>https://your-repo-url</url>
-  </repository>
+  <repositories>
+    <repository>
+        <id>myid</id>
+        <url>http://url1</url>
+    </repository>
 </distributionManagement>
 
 
