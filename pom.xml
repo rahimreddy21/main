@@ -21,10 +21,9 @@
 
 <distributionManagement>
   <repository>
-    <id>rahimreddy21</id>
-    <url>https://github.com/rahimreddy21/main.git</url>
+    <id>your-repo-id</id>
+    <url>https://your-repo-url</url>
   </repository>
-  <!-- ... -->
 </distributionManagement>
 
 
