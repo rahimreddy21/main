@@ -19,6 +19,23 @@
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
 
+<distributionManagement>
+  <repository>
+    <id>rahimreddy21</id>
+    <url>l</url>
+  </repository>
+  <!-- ... -->
+</distributionManagement>
+
+
+
+
+
+
+
+
+
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
