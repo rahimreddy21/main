@@ -22,7 +22,7 @@
 <distributionManagement>
   <repository>
     <id>your-repo-id</id>
-    <url>https://your-repo-url</url>
+    <url> https://your-repo-url/boomesh/roomesh/1.0-SNAPSHOT/maven-metadata.xml.</url>
   </repository>
 </distributionManagement>
 
